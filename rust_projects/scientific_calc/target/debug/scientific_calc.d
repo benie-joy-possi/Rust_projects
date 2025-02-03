@@ -1,0 +1,1 @@
+/Users/gisstudent/projects/Projects1/rust_projects/scientific_calc/target/debug/scientific_calc: /Users/gisstudent/projects/Projects1/rust_projects/scientific_calc/src/calc.rs /Users/gisstudent/projects/Projects1/rust_projects/scientific_calc/src/functions.rs /Users/gisstudent/projects/Projects1/rust_projects/scientific_calc/src/main.rs
